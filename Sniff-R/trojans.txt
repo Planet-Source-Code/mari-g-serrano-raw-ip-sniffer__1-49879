@@ -1,0 +1,269 @@
+2	Death 
+21	Blade Runner;Back Construction;Doly Trojan;Fore;FTP Bmail;FTP Trojan;WebEx;Senna Spy FTP Server;Larva;MBT;Invisible FTP;WinCrash 
+23	Tiny Telnet Server;Truva Atl
+25	Aji;Antigen;Email Password Sender;Gip;Kuang2;Magic Horse;Moscow email;Terminator;Stealth
+31	Master Paradise;Hackers Paradise;Agent31 
+41	Deep Throat 
+48	DRAT 
+79	Firehotcker 
+80	Back End;Executor;Hooker;Intruzzo;RingZero
+99	Hidden Port 
+110	ProMail Trojan 
+113	Invisible Ident Deamon;Kazimas
+121	BO jammerkillahV 
+123	Net Controller 
+146	Infector 
+456	Hackers Paradise 
+500	Socket23 
+531	Rasmin 
+555	Phase0;ini-killer;NetAdmin;Stealth Spy
+606	Secret Service 
+666	Attack FTP;Back Construction;NokNok;Satanz Backdoor;ServeU;Cain&Abel
+667	SniperNet 
+777	Aim Spy;Legio
+789	iCkiller 
+808	WinHole 
+911	Dark Shadow 
+999	Deep Throat;WinSatan
+1000	Der Spaeher 3 
+1001	Der Spaeher 3;Silencer;Le Guardien;WebEx
+1010	Doly trojan v1.30 y v1.35 
+1011	Doly trojan 1.1 y 1.2 
+1012	Doly Trojan 
+1015	Doly trojan v1.5 
+1016	Doly trojan 
+1020	Vampire 
+1024	NetSpy 
+1025	Ptakks;Optix
+1033	NetSpy 
+1042	Bla 1.1 
+1044	Ptakks 
+1045	Raspin 
+1080	Wingate (RAT);WinHole
+1081	WinHole 
+1082	WinHole 
+1083	WinHole 
+1090	Xtreme 
+1170	Streaming Audio Trojan 
+1207	SoftWar 
+1208	Infector 
+1212	Kaos 
+1218	Sazo 
+1225	Scarab 
+1234	Ultors trojan 
+1243	Sub7;Sub7 apocalypse;Tiles;Backdoor-G
+1245	Vodoo Doll 
+1255	Scarab 
+1269	Maverick`s Matrix 
+1313	NETrojan 
+1492	FTP99 CMP 
+1509	Psyber Streaming Server 
+1524	Trinoo 
+1600	Shiva Burka 
+1777	Scarab 
+1807	Spy Sender 
+1850	Black Angel 
+1966	Fake TFP 
+1981	Shock Rave 
+1999	Backdoor;Transcout v1.1 y v1.2 
+2000	Der Spaeher 3;Insane Network;Transcout
+2001	Der Spaeher 3;Trojan Cow;Transcout
+2002	Transcout 
+2003	Transcout 
+2004	Transcout 
+2005	Transcout 
+2023	Pass Ripper 
+2080	WinHole 
+2140	The Invasor;Deep Throat
+2283	HVL Rat5 
+2300	Xplorer 
+2565	Striker 
+2583	Wincrash2 
+2600	Digital RootBeer 
+2773	Sub7 
+2801	Phineas Phucker 
+3024	WinCrash 
+3128	RingZero 
+3129	Master´s Paradise 
+3150	Deep Throat;The Invasor
+3410	Optix 
+3456	Teror Trojan 
+3700	Portal of Doom 
+3791	Total Eclypse 1.0 
+3801	Eclypse 
+4000	SkyDance 
+4092	WinCrash 
+4128	RCServ 
+4242	Virtual hacking Machine 
+4321	BoBo 
+4444	Prosiak;Swift remote
+4567	File Nail 
+4590	ICQ Trojan;ICQ Trojen
+5000	Socket23;Bubbel;Back door Setup
+5001	Socket23;Back door Setup
+5010	Solo 
+5011	OOTLT y OOTLT Cart 
+5031	NetMetro 1.0;NetMetropolitan 1.04
+5032	NetMetropolitan 1.04
+5135	FTP Bmail  
+5321	Firehotcker
+5400	Back Construction 1.2;Blade Runner
+5401	Blade Runner 
+5402	Blade Runner 
+5512	Illusion Mailer 
+5550	Xtcp
+5555	ServeMe 
+5556	BO facil 
+5557	BO facil 
+5569	RoboHack
+5637	PC crasher 
+5638	PC crasher 
+5695	Assasin  
+5742	Wincrash
+5888	Y3K RAT 
+6000	The Thing 1.6 
+6272	Secret Service 
+6400	The Thing 
+6667	Net-Devil 1.0 
+6668	Net-Devil 1.0 
+6669	Net Devil 1.0;Vampire
+6670	Deep Throat 1,2,3.x 
+6711	Sub7 
+6712	Sub7;Funny trojan
+6713	Sub7 
+6771	Deep Throat 
+6776	Sub7;Backdoor-G
+6883	Delta Source 
+6912	Shitheep 
+6939	Indoctrination 
+6969	Gatecrasher;IRC3;NetController;Priotrity
+6970	Gate Crasher 
+7000	Remote Grab;Kazimas;Sub7
+7215	Sub7 
+7300	Kuang2 the Virus;Net Monitor
+7301	Net Monitor 
+7306	Net Monitor 
+7307	Net Monitor 
+7308	Net Monitor 
+7789	ICQKiller 
+8012	Ptakks 
+8080	RingZero 
+8787	Back Orifice 2000 
+8897	HackOrifice 
+9000	Netministrator 
+9400	InCommand 1.0 
+9580	Theef 
+9872	Portal of Doom 
+9873	Portal of Doom 
+9874	Portal of Doom 
+9875	Portal of Doom 
+9989	InlKiller;iNi-Killer
+9999	The Player 
+10067	Portal of Doom 
+10085	Syphillis 
+10086	Syphillis 
+10167	Portal of Doom 
+10607	Coma 
+10666	Ambush 
+11000	Senna Spy Trojan 
+11050	Host Control 
+11051	Host Control 
+11223	Progenic Trojan 
+11831	Latinus 
+12076	Gjamer 
+12223	Hack´99 1.x Key Logger 
+12345	NetBus;GabanBus;Ultor´s Telnet Trojan
+12346	NetBus 1.x (NetBuster) 
+12348	BioNet 
+12349	BioNet 
+12361	Whack-a-mole 
+12362	Whack-a-mole 
+12456	NetBus 
+12624	Buttman 
+12701	Eclipse 2000 
+13000	Senna Spy 
+13010	Hacker Brazil 
+14000	Infector 
+14194	CyberSpy 
+15092	Host Control 
+16660	Stacheldracht 
+16772	ICQ Revenge 
+16969	Priotrity 
+17300	Kuang2 the Virus 
+17569	Infector 
+19864	ICQ Revenge 
+20000	Millenium 
+20001	Millenium 
+20002	AcidkoR 
+20034	NetBus Pro;NetRex;Whack Job 
+20203	Chupacabra;Logged!
+20331	Bla 
+20432	Shaft 
+21554	GirlFriend;Kidterror;WinSp00fer;Schwindler 1.82
+22222	Prosiak 0.47 
+22784	Intruzzo 
+23432	Asylum 
+23456	Ugly FTP;WhackJob;Evil FTP
+23476	Donald Dick 
+24000	Infector 
+27374	Sub7 v2.1 
+27573	Sub7 
+27665	Trinoo 
+29104	Host Control 
+29559	Latinus 
+29891	The Unexplained 
+30000	Infector 
+30001	Terr0r32 
+30029	AOL Trojan 1.1 
+30100	NetSphere 
+30101	NetSphere 
+30102	NetSphere 
+30133	NetSphere 
+30303	Socket23 
+30947	Intruse 
+30999	Kuang 
+31337	Back Oriffice;Baron Night;BackFire;DeepBO;NetPatch
+31338	NetSpy DK;ButtFunnel;Back Orifice;Deep BO
+31339	Net Spy DK 
+31415	Lithium 
+31416	Lithium 
+31666	BOWhack 
+31745	Buschtrommel 
+31785	Hack´attack 
+31787	Hack´attack 
+31789	Hack´attack 
+31791	Hack´attack 
+32100	Peanut Brittle;Project nEXT
+32418	Acid Battery 
+33333	Prosiak 
+33577	PsychWard 
+33777	PsychWard 
+33911	Trojan Spirit 2001a  
+34324	Big Gluck, aka TN;Tiny Telnet Server
+35000	Infector 
+40412	The Spy 
+40421	Master Paradise;Agent 40421
+40422	Master Paradise 
+40423	Master Paradise 
+40425	Master Paradise 
+44444	Prosiak 
+50000	Infector 
+50505	Socket23 
+50766	Fore; Schwindler
+51996	Cafeini 
+52317	Acid Battery 2000 
+53001	Remote Windows Shutdown 
+54283	Sub7 
+54320	Back Orifice;Back Orifice 2000
+54321	Schoolbus 1.6;Schoolbus 2.0;Back Orifice 2000
+57341	NetRaider 
+58339	ButtFunnel 
+60000	Deep Throat 
+61348	Bunker-Hill 
+61466	Telecommando 
+61603	Bunker-Hill 
+63485	Bunker-Hill 
+65000	Devil 1.03;Stacheldracht
+65123	Shit Heep 
+65432	The Traitor  
+65535	RC 
